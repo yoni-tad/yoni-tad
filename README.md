@@ -1,4 +1,7 @@
-<p align="center">[![MasterHead](https://ynitsolution.com/assets/img/git-3.jpg)](https://ynitsolution.com)</p>
+<p align="center">
+  <img src="https://ynitsolution.com/assets/img/git-3.jpg" />
+</p>
+<p align="center">[![MasterHead](https://ynitsolution.com/assets/img/git-3.jpg)](https://ynitsolution.com)
 <h1 align="center">Hi 👋, I'm Yonatan Tadese</h1>
 <h3 align="center">A passionate flutter developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://ynitsolution.com/assets/img/git-1.png">
