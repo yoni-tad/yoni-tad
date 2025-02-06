@@ -1,3 +1,4 @@
+<a href="https://wakatime.com/@9cfef5c5-20d7-41ef-8682-e296e98ef299"><img src="https://wakatime.com/badge/user/9cfef5c5-20d7-41ef-8682-e296e98ef299.svg" alt="Total time coded since Jan 31 2025" /></a>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yoni-tad" />
 
 <h1 align="center">
