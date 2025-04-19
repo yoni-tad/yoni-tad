@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Event manager app**
+ 🔭 I’m currently working on **Flutter app**
  
- 🌱 I’m currently learning **Python, Laravel, React**
+ 🌱 I’m currently learning **Python, React**
 
  👨‍💻 All of my projects are available at [yoni-tad.com](https://yoni-tad.com)
 
