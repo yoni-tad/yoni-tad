@@ -11,13 +11,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Flutter app**
+ 🔭 I’m currently working on **Full-stack development**
  
- 🌱 I’m currently learning **Python, React**
+ 🌱 I’m currently learning **Rust**
 
  👨‍💻 All of my projects are available at [yoni-tad.com](https://yoni-tad.com)
 
-💬 Ask me about **PHP, Flutter, Node.js, MySQL... or anything [here](https://github.com/yoni-tad/yoni-tad/issues)**
+💬 Ask me about **Nextjs, React, Flutter, Node.js, MySQL... or anything [here](https://github.com/yoni-tad/yoni-tad/issues)**
 
  </div>
  
